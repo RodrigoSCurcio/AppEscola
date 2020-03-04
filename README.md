@@ -1,2 +1,2 @@
 # AppEscola
-Um app para notas escolares.
+Um app em Java para notas escolares.
